@@ -17,7 +17,7 @@ android {
         versionCode 1
         versionName "1.0"
 
-        buildConfigField "String", "API_STORY", '"https://story-api.dicoding.dev/v1/"'
+        buildConfigField "String", "API_STORY", '"INPUT YOUR API HERE"'
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
