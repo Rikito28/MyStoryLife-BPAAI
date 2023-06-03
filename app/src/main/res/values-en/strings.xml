@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyStoryLife</string>
+    <string name="desk_app">MyStory Life</string>
+    <string name="login">Login</string>
+    <string name="login_hint">Email ID</string>
+    <string name="password">Enter Password</string>
+    <string name="atau">Or</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_login">Login</string>
+    <string name="no_story">No Stories Loaded</string>
+    <string name="posted_on">Posted on %1$s</string>
+    <string name="message_Story">successfully fetched</string>
+    <string name="welcome_app">Welcome,</string>
+    <string name="text_email">Email</string>
+    <string name="text_password">Password</string>
+    <string name="email_false">Incorrect Email Entered</string>
+    <string name="greetings">Please login using the account you have created</string>
+    <string name="error_password">Password Must Have 8 Characters</string>
+    <string name="first_login">Login</string>
+    <string name="first_register">Register</string>
+    <string name="no_fill">Fill First</string>
+    <string name="ready_account">Don\'t have an account?</string>
+    <string name="register">Register</string>
+    <string name="failed">Login Failed</string>
+    <string name="try_again">Try Again</string>
+    <string name="language">Select a language</string>
+    <string name="welcome_register">Welcome</string>
+    <string name="welcome_reg">Please Create an Account to Enter the Application</string>
+    <string name="have_account">Already Have an Account?</string>
+    <string name="name_register">Name</string>
+    <string name="name_hint">Enter Full Name</string>
+    <string name="name_error">Name Required</string>
+    <string name="success">Successful Registration</string>
+    <string name="_continue">Continue</string>
+    <string name="failed1">Registration Failed</string>
+    <string name="galery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="upload">Upload</string>
+
+    <string name="deskripsi">Enter a description of the photo you want to share</string>
+    <string name="invalid">Error In App Licensing</string>
+    <string name="choose">Select Images</string>
+    <string name="no_file">No Files Attached</string>
+    <string name="invalid_img">Wrong Image</string>
+    <string name="camera_failed">Camera Failed</string>
+    <string name="logout">Log Out</string>
+    <string name="sure">Are You Sure Exit?</string>
+    <string name="cancel">Cancel</string>
+</resources>

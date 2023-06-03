@@ -1,0 +1,75 @@
+<resources>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="app_name">MyStoryLife</string>
+    <string name="desk_app" translatable="false">MyStory Life</string>
+    <string name="name_main" translatable="false">My Story</string>
+    <string name="detail_app" translatable="false">Detail Story</string>
+    <string name="setting_app" translatable="false">Settings</string>
+    <string name="upload_app" translatable="false">Upload</string>
+    <string name="mapsactivity" translatable="false">My Maps</string>
+
+    <string name="login">Login</string>
+    <string name="login_hint">Email ID</string>
+    <string name="password">Masukkan Password</string>
+    <string name="atau">Atau</string>
+    <string name="btn_register">Daftar</string>
+    <string name="btn_login">Login</string>
+
+    <string name="no_story">Tidak Ada Story Yang Dimuat</string>
+    <string name="posted_on">Posted on %1$s</string>
+    <string name="message_Story">successfully fetched</string>
+
+    <string name="welcome_app">Selamat Datang,</string>
+    <string name="text_email">Email</string>
+    <string name="text_password">Password</string>
+    <string name="email_false">Email yang Dimasukkan Salah</string>
+    <string name="greetings">Silahkan Login Menggunakan Akun yang sudah anda Buat</string>
+    <string name="error_password">Password Harus Memiliki 8 Karakter</string>
+    <string name="first_login">Login</string>
+    <string name="first_register">Daftar</string>
+    <string name="no_fill">Isi Terlebih Dahulu</string>
+    <string name="ready_account">Belum Punya Akun?</string>
+    <string name="register">Daftar</string>
+    <string name="failed">Login Gagal</string>
+    <string name="try_again">Coba Lagi</string>
+    <string name="language">Pilih Bahasa</string>
+
+    <string name="username" translatable="false">Riski Apriyanto</string>
+    <string name="post_time" translatable="false">27 April 2023</string>
+
+    <string name="welcome_register">Selamat Datang</string>
+    <string name="welcome_reg">Silahkan Buat Akun untuk Masuk ke Aplikasi</string>
+    <string name="have_account">Sudah Punya Akun?</string>
+    <string name="name_register">Nama</string>
+    <string name="name_hint">Masukkan Nama Lengkap</string>
+    <string name="name_error">Nama Harus Diisi</string>
+    <string name="success">Registrasi Berhasil</string>
+    <string name="_continue">Lanjutkan</string>
+    <string name="failed1">Registrasi Gagal</string>
+
+    <string name="galery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="deskripsi">Masukkan Deskripsi Foto yang ingin anda bagikan</string>
+    <string name="upload">Upload</string>
+    <string name="invalid">Kesalahan Dalam Perijinan Aplikasi</string>
+    <string name="choose">Pilih Image</string>
+    <string name="no_file">Tidak Ada File yang Dilampirkan</string>
+    <string name="invalid_img">Image Salah</string>
+    <string name="camera_failed">Camera Gagal</string>
+    <string name="logout">Keluar</string>
+    <string name="settings" translatable="false">Settings</string>
+    <string name="sure">Apakah Yakin Keluar?</string>
+    <string name="cancel">Batal</string>
+
+    <string name="menu_maps" translatable="false">Maps</string>
+    <string name="title_activity_maps" translatable="false">MapsActivity</string>
+    <string name="maps_error" translatable="false">Maps Error</string>
+    <string name="maps_success" translatable="false">Maps Success</string>
+    <string name="success_login" translatable="false">Login Success</string>
+    <string name="failed_login" translatable="false">Login Failed</string>
+    <string name="success_regis" translatable="false">Register Success</string>
+    <string name="failed_regis" translatable="false">Register Failed</string>
+    <string name="btn_try" translatable="false">Try Again</string>
+    <string name="load_error" translatable="false">Try Again</string>
+
+</resources>
